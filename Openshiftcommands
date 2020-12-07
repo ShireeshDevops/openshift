@@ -1,0 +1,3 @@
+login with system
+---------
+oc login -u system:admin
